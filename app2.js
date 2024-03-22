@@ -1,6 +1,6 @@
-import{upper} from "./info.js"
-import{down,P1,b1,b2,b3} from "./card.js"
-import{fp,sp,tp,frp} from "./img.js"
+import{upper} from "./info2.js"
+import{down,P1,b1,b2,b3} from "./card2.js"
+import{fp,sp,tp,frp} from "./img2.js"
 const one={
   nav1: "Home",
   nav2: "What I learned",
